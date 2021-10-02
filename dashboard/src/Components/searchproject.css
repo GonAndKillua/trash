@@ -1,0 +1,14 @@
+.searchproject {
+  display: inline-block;
+  color: var(--star-dust);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  margin-right: 25%;
+  letter-spacing: 0;
+  line-height: 60px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+@import url("https://fonts.googleapis.com/css?family-Montserrat:300,700,500,600");

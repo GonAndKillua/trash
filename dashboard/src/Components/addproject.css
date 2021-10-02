@@ -1,0 +1,18 @@
+.add-project {
+  background-color: var(--picton-blue);
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  border-radius: 0.3rem;
+  width: 75%;
+  margin-left: -0.5rem;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 627px;
+  white-space: nowrap;
+}
+
+@import url("https://fonts.googleapis.com/css?family-Montserrat:3 780,500,600");

@@ -1,0 +1,21 @@
+.lastsection {
+  background-color: white;
+  border-radius: 9px;
+  height: 470px;
+  /* margin-right: 20px;
+  margin-left: 20px; */
+}
+tbody td {
+  background-color: #39ff14;
+}
+.black {
+  font-family: var(--font-family-montserrat);
+}
+.gray {
+  color: var(--dove-gray);
+}
+tr {
+  line-height: 50px;
+  min-height: 25px;
+  height: 50px;
+}

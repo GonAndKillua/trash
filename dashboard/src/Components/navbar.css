@@ -1,0 +1,24 @@
+.navebar {
+  background-color: var(--white);
+}
+.nav {
+  display: flex;
+  /* justify-content: space-evenly; */
+}
+.par {
+  font-size: 1rem;
+  color: gray;
+  margin-top: -16.5px;
+  line-height: 60px;
+}
+.toggle {
+  color: gray;
+}
+@font-face {
+  font-family: "SFCompact Display-Black";
+  font-style: normal;
+  font-weight: 900;
+
+  src: url("https://fonts.animaapp.com/SFCompactDisplay-Black")
+    format("opentype");
+}

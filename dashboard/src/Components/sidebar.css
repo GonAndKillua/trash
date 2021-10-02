@@ -1,0 +1,35 @@
+.sidebar {
+  position: relative;
+  background-color: var(--white);
+  height: 150px;
+  width: 222px;
+}
+.title {
+  display: inline-block;
+  color: var(--picton-blue);
+  font-family: var(--font-family-sfcompact_display-black);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+  margin-left: 1rem;
+  line-height: 60px;
+  white-space: nowrap;
+}
+.text-0 {
+  margin-top: 10px;
+  color: var(--dove-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  line-height: 60px;
+  white-space: nowrap;
+}
+.span0 {
+  color: var(--picton-blue);
+  font-weight: 600;
+  /* margin-left: 2rem; */
+}
+/* .span1 {
+  margin-left: 2rem;
+} */
+
+@import url("https://fonts.googleapis.com/css?family-Montserrat:300,700,500,600");

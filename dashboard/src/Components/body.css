@@ -1,0 +1,23 @@
+.body {
+  background-color: #dcdcdc;
+  height: 1050px;
+}
+.square {
+  background: linear-gradient(90.09deg, #feb683 2.3%, #ff8993 99.94%);
+  margin-left: 20px;
+  border-radius: 8px;
+  height: 35px;
+  width: 35px;
+}
+.dashboard {
+  margin-left: 45px;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  letter-spacing: 0;
+
+  white-space: nowrap;
+}
+.d-flex {
+  height: auto;
+}
